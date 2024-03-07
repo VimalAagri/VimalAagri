@@ -1,23 +1,21 @@
 <!----------------------------------- Banner ------------------------------------->
 
-[![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/linkedin%20photo.jpg)](#)
-
 <!----------------------------------- About Section ------------------------------------>
 <div>
-<h1 align="center">Hi 👋, I'm Rajat Kapoor</h1>
+<h1 align="center">Hi 👋, I'm Vimal Aagri</h1>
 <h3 align="center">Embarking on the Journey of AIML and APP Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkapoor01&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkapoor01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VimalAagri&label=Profile%20views&color=0e75b6&style=flat" alt="VimalAagri" /> </p>
 
-- 🔭 I’m currently working on [python projects](https://github.com/Rajatkapoor01/Python_Projects.git)
+- 🔭 I’m currently working on [python projects](https://github.com/VimalAagri/Python_Projects.git)
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/Rajatkapoor01/Machine_Learning_Projects.git)
+- 🔭 I’m currently working on [Machine Learning](https://github.com/VimalAagri/Machine_Learning_Projects.git)
 
-- 🔭 I’m currently working on [AAP Development](https://github.com/Rajatkapoor01/APPLICATION_DEVELOPMENT.git)
+- 🔭 I’m currently working on [APP Development](https://github.com/VimalAagri/APPLICATION_DEVELOPMENT.git)
 
-- 💬 Ask me about **Python, Machine Learning, AAP Development, AI, MySQL, DBMS, NLP, IOT, DSA, C,C++, KOTLIN,**
+- 💬 Ask me about **Python, Machine Learning, APP Development, AI, MySQL, DBMS, NLP, IOT, DSA, C,C++, KOTLIN,**
 
-- 📫 How to reach me **Rajat01kapoor@gmail.com**
+- 📫 How to reach me **VimalAagri@gmail.com**
 </div>
 
 
@@ -52,13 +50,14 @@
 <h3>CONNECTIONS : </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" height="30" width="40" /></a>
-<a href="https://kaggle.com/rajatkapoor01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajatkapoor01" height="30" width="40" /></a>
-<a href="https://fb.com/rajat kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajat kapoor" height="30" width="40" /></a>
-<a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat._.kapoor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mr.r00t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr.r00t" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/VimalAagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VimalAagri" height="30" width="40" /></a>
+<a href="https://kaggle.com/VimalAagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="VimalAagri" height="30" width="40" /></a>
+<a href="https://fb.com/VimalAagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="VimalAagri" height="30" width="40" /></a>
+<a href="https://instagram.com/VimalAagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="VimalAagri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/VimalAagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VimalAagri" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalAagri&show_icons=true&locale=en" alt="VimalAagri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VimalAagri&" alt="VimalAagri" /></p>
+
