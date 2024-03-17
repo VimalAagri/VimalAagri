@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, APP Development, AI, MySQL, DBMS, NLP, IOT, DSA, C,C++, KOTLIN,**
 
-- 📫 How to reach me **VimalAagri@gmail.com**
+- 📫 How to reach me **vimalagari@gmail.com**
 </div>
 
 
